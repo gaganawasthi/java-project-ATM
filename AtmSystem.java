@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AtmSystem3 {
+public class AtmSystem {
     static int pin = 3214;
     static double accountBalance = 10000;
     static double machineRemainingBalance = 5000;
